@@ -1,0 +1,64 @@
+{
+    "calibration": {
+        "{A5AA2B50-25E9-11E7-8001-444553540000}": {
+            "axis_1": [
+                -32768,
+                0,
+                32767
+            ],
+            "axis_2": [
+                -32768,
+                0,
+                32767
+            ],
+            "axis_3": [
+                -32768,
+                0,
+                32767
+            ]
+        },
+        "{A60B8530-25E9-11E7-8003-444553540000}": {
+            "axis_3": [
+                -32768,
+                0,
+                32767
+            ],
+            "axis_4": [
+                -32768,
+                0,
+                32767
+            ]
+        }
+    },
+    "last_mode": {
+        "C:/Users/etien/Joystick Gremlin/blender.xml": "Default",
+        "C:/Users/etien/Joystick Gremlin/dcs.xml": "Default",
+        "C:/Users/etien/Joystick Gremlin/dcs_spit.xml": "Default",
+        "C:/Users/etien/Joystick Gremlin/il-2.xml": "Default",
+        "C:/Users/etien/Joystick Gremlin/sc.xml": "Default",
+        "C:/Users/etien/Joystick Gremlin/test.xml": "Default",
+        "C:/Users/etien/Joystick Gremlin/xplane.xml": "Default"
+    },
+    "last_profile": "C:/Users/etien/Joystick Gremlin/sc.xml",
+    "macro_record_axis": false,
+    "macro_record_button": false,
+    "macro_record_hat": false,
+    "macro_record_keyboard": true,
+    "macro_record_mouse": false,
+    "profiles": {},
+    "recent_profiles": [
+        "C:/Users/etien/Joystick Gremlin/sc.xml",
+        "C:/Users/etien/Joystick Gremlin/il-2.xml",
+        "C:/Users/etien/Joystick Gremlin/dcs.xml",
+        "C:/Users/etien/Joystick Gremlin/dcs_spit.xml",
+        "C:/Users/etien/Joystick Gremlin/xplane.xml"
+    ],
+    "window_location": [
+        2851,
+        326
+    ],
+    "window_size": [
+        1412,
+        677
+    ]
+}
